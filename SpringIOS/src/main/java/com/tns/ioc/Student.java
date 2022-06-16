@@ -1,5 +1,8 @@
 package com.tns.ioc;
 
-public interface Student {
-
+public interface Student 
+{
+	void calling();
+	void data();
+	
 }
