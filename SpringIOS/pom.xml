@@ -4,8 +4,9 @@
   <artifactId>SpringIOS</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>SpringIOS</name>
-  <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
+  
   <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-core</artifactId>
